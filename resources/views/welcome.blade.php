@@ -37,7 +37,7 @@
 
   
      
-    <div class="site-blocks-cover overlay" style="background-image: url(/images/hero_2.jpg);" data-aos="fade" id="home-section">
+    <div class="site-blocks-cover overlay" style="background-image: url(/images/bg.jpg);" data-aos="fade" id="home-section">
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-8 mt-lg-5 text-center">
@@ -69,14 +69,15 @@
           <div class="col-lg-6 mb-5" data-aos="fade-up" data-aos-delay="">
             <figure class="circle-bg">
             <!-- <img src="/images/hero_1.jpg" alt="Image" class="img-fluid"> -->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d32941.65481628724!2d120.3199468818006!3d-3.3819002307814547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2d96a550093b44e9%3A0xa63f0f3a5c50398!2sKurusumanga%2C%20Belopa%2C%20Kabupaten%20Luwu%2C%20Sulawesi%20Selatan!5e1!3m2!1sid!2sid!4v1611195649167!5m2!1sid!2sid" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <div class="embed-responsive embed-responsive-4by3">
+              <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d32941.65481628724!2d120.3199468818006!3d-3.3819002307814547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2d96a550093b44e9%3A0xa63f0f3a5c50398!2sKurusumanga%2C%20Belopa%2C%20Kabupaten%20Luwu%2C%20Sulawesi%20Selatan!5e1!3m2!1sid!2sid!4v1611195649167!5m2!1sid!2sid"  style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            </div>
             </figure>
           </div>
           <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="100">
             <div class="mb-4">
               <!-- <h3 class="h3 mb-4 text-black">For the next great business</h3> -->
-              <p class="text-justify">Desa Kurrusumanga adalah desa yang berada di kecamatan Belopa, Kabupaten Luwu, Sulawesi Selatan. Desa ini terbagi menjadi 3 dusun yaitu dusun Padang-Padang, Kombong, dan Kurrusumanga.</p>
-              
+              <p class="text-justify">Desa Kurrusumanga adalah desa yang berada di kecamatan Belopa, Kabupaten Luwu, Sulawesi Selatan. Desa ini terbagi menjadi 3 dusun yaitu dusun Padang-Padang, Kombong, dan Kurrusumanga.</p>    
             </div>
             
             
@@ -87,12 +88,8 @@
                 <li>Possimus aut consequuntur incidunt</li>
                 <li>Lorem ipsum dolor sit amet</li>
                 <li>Consectetur adipisicing elit</li>
-              </ul>
-              
-            </div> -->
-
-            
-            
+              </ul>           
+            </div> --> 
           </div>
         </div>
       </div>  
@@ -363,7 +360,7 @@
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center" data-aos="fade">
-            <h2 class="section-title mb-3">Our Blog</h2>
+            <h2 class="section-title mb-3">Berita Desa</h2>
           </div>
         </div>
 
@@ -529,7 +526,7 @@
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center" data-aos="fade">
-            <h2 class="section-title mb-3">Our Services</h2>
+            <h2 class="section-title mb-3">Dana Desa</h2>
           </div>
         </div>
         <div class="row align-items-stretch">

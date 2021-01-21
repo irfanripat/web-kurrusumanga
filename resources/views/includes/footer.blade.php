@@ -11,9 +11,9 @@
                 <h2 class="footer-heading mb-4 font-weight-bold">Link Cepat</h2>
                 <ul class="list-unstyled">
                   <li><a href="#about-section" class="smoothscroll">Profil Desa</a></li>
-                  <li><a href="#services-section" class="smoothscroll">Potensi Desa</a></li>
-                  <li><a href="#testimonials-section" class="smoothscroll">Berita Desa</a></li>
-                  <li><a href="#testimonials-section" class="smoothscroll">Dana Desa</a></li>
+                  <li><a href="#potensi-section" class="smoothscroll">Potensi Desa</a></li>
+                  <li><a href="#blog-section" class="smoothscroll">Berita Desa</a></li>
+                  <li><a href="#services-section" class="smoothscroll">Dana Desa</a></li>
                   <li><a href="#contact-section" class="smoothscroll">Hubungi Kami</a></li>
                 </ul>
               </div>
