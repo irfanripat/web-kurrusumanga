@@ -15,18 +15,8 @@
                 <li class="has-children">
                   <a href="#about-section" class="nav-link">Profil Desa</a>
                   <ul class="dropdown">
-                    <li><a href="#team-section" class="nav-link">Informasi Geografis</a></li>
-                    <li><a href="#pricing-section" class="nav-link">Struktur Pemerintahan</a></li>
-                    <li><a href="#portfolio-section" class="nav-link">Potensi Desa</a></li>
-                    <!-- <li><a href="#faq-section" class="nav-link">FAQ</a></li>
-                    <li class="has-children">
-                      <a href="#">More Links</a>
-                      <ul class="dropdown">
-                        <li><a href="#">Menu One</a></li>
-                        <li><a href="#">Menu Two</a></li>
-                        <li><a href="#">Menu Three</a></li>
-                      </ul>
-                    </li> -->
+                    <li><a href="#team-section" class="nav-link">Struktur Pemerintahan</a></li>
+                    <li><a href="#potensi-section" class="nav-link">Potensi Desa</a></li>
                   </ul>
                 </li>
                 <li><a href="#blog-section" class="nav-link">Berita Desa</a></li>
@@ -38,7 +28,6 @@
 
 
           <div class="col-6 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle float-right"><span class="icon-menu h3"></span></a></div>
-
         </div>
       </div>
       
