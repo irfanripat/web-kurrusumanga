@@ -337,7 +337,7 @@
           </div>
         </div>
 
-        <div class="row mb-5">
+        <div class="row mb-2">
           <div class="col-12 text-center" data-aos="fade">
             <p class="lead text-dark font-weight-bold" data-aos="fade-up" data-aos-delay="100">Pendapatan Desa Tahun 2020</p>
             <!-- <p class="lead text-dark font-weight-bold" data-aos="fade-up" data-aos-delay="100">Pendapatan Desa Tahun 2020</p> -->
@@ -346,21 +346,49 @@
         
         Alokasi Dana Desa
         <div class="progress mb-4" style="height: 35px;">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">28%</div>
-          
+          <div class="progress-bar bg-success" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp.1.000.000.000</span></div>
         </div>
       
-        <!-- <div class="progress mb-4" style="height: 35px;">
-          <div class="progress-bar bg-danger" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">25%</div>
+        Bantuan Keuangan Provinsi
+        <div class="progress mb-4" style="height: 35px;"> 
+          <div class="progress-bar bg-danger" role="progressbar" style="width: 8%;" aria-valuenow="8" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 100.000.000</span></div>
         </div>
 
-        <div class="progress mb-4" style="height: 35px;">
-          <div class="progress-bar bg-warning" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">25%</div>
+        Bagi Hail Pajak
+        <div class="progress mb-5" style="height: 35px;">
+          <div class="progress-bar bg-primary" role="progressbar" style="width: 2%;" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 10.000.000</span></div>
         </div>  
 
+
+
+
+
+        <div class="row mb-2" style="margin-top: 100px;">
+          <div class="col-12 text-center" data-aos="fade">
+            <p class="lead text-dark font-weight-bold" data-aos="fade-up" data-aos-delay="100">Belanja Desa Tahun 2020</p>
+            <!-- <p class="lead text-dark font-weight-bold" data-aos="fade-up" data-aos-delay="100">Pendapatan Desa Tahun 2020</p> -->
+          </div>
+        </div>
+        
+        Bidang Penyelenggaraan Pemerintahan Desa
         <div class="progress mb-4" style="height: 35px;">
-          <div class="progress-bar bg-primary" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">25%</div>
-        </div>  -->
+          <div class="progress-bar bg-success" role="progressbar" style="width: 30%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp.343.408.253</span></div>
+        </div>
+      
+        Bidang Pelaksanaan Pembangunan Desa
+        <div class="progress mb-4" style="height: 35px;"> 
+          <div class="progress-bar bg-danger" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp.504.456.500</span></div>
+        </div>
+
+        Bidang Pembinaan Kemasyarakatan
+        <div class="progress mb-4" style="height: 35px;">
+          <div class="progress-bar bg-primary" role="progressbar" style="width: 9%;" aria-valuenow="9" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 96.234.000</span></div>
+        </div>  
+
+        Bidang Pemberdayaan Masyarakat
+        <div class="progress mb-4" style="height: 35px;">
+          <div class="progress-bar bg-success" role="progressbar" style="width: 1%;" aria-valuenow="1" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 5.050.000</span></div>
+        </div>  
 
         </div>
     </section>
