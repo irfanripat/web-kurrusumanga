@@ -390,6 +390,8 @@
           <div class="progress-bar bg-success" role="progressbar" style="width: 1%;" aria-valuenow="1" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 5.050.000</span></div>
         </div>  
 
+        sfd
+
         </div>
     </section>
 
