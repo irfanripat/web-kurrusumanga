@@ -2,6 +2,26 @@
 html {
   overflow-x: hidden; }
 
+  html,body
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+.container-cover {
+  position: absolute;
+  bottom: 40px;
+  z-index: 5;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  display: block;
+}
+
+
   .nopadding {
     padding: 0 !important;
     margin: 0 !important;
@@ -826,6 +846,9 @@ body:after {
   visibility: visible; }
 
 .slide-one-item .owl-dots {
+  position: absolute;
+  z-index: -1;
+  display: none;
   text-align: center; }
   .slide-one-item .owl-dots .owl-dot {
     display: inline-block;
@@ -1208,16 +1231,10 @@ body:after {
     transform: translateX(0%); }
 
 .testimonial {
-  max-width: 800px;
-  margin: 0 auto !important;
+  height: cover;
   text-align: center; }
-  .testimonial blockquote {
-    font-size: 1.5rem;
-    font-style: italic; }
-  .testimonial figure img {
-    max-width: 100px;
-    margin: 0 auto;
-    border-radius: 50%; }
+
+  
 
 .breadcrumb-custom {
   font-size: 1rem !important; }

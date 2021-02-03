@@ -11,7 +11,6 @@
     
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
-  
 
   <div id="overlayer"></div>
   <div class="loader">
@@ -37,8 +36,32 @@
 
   
      
-    <div class="site-blocks-cover overlay" style="background-image: url(/images/bg2.jpg);" data-aos="fade" id="home-section">
-      <div class="container">
+    <div class="site-blocks-cover overlay" data-aos="fade" id="home-section">
+        
+        <div class="slide-one-item home-slider owl-carousel" data-ride="carousel">
+          <div>
+            <div class="testimonial" >
+              <!-- <img class="d-block w-100" src="/images/bg.jpg" alt="First slide"> -->
+              <div class="site-blocks-cover overlay" style="background-image: url(/images/bg2.jpg);"></div>
+            </div>
+          </div>
+        
+          <div>  
+            <div class="testimonial">
+              <!-- <img class="d-block w-100" src="/images/bg2.jpg" alt="Second slide"> -->
+              <div class="site-blocks-cover overlay" style="background-image: url(/images/bg.jpg);"></div>
+            </div>
+          </div>
+
+          <div>  
+            <div class="testimonial">
+              <!-- <img class="d-block w-100" src="/images/hero_1.jpg" alt="Third slide"> -->
+              <div class="site-blocks-cover overlay" style="background-image: url(/images/agrowisata.jpg);"></div>
+            </div>
+          </div>
+        </div>
+
+      <div class="container container-cover">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-8 mt-lg-5 text-center">
             <h1 class="text-uppercase" data-aos="fade-up">Selamat Datang</h1>
@@ -57,6 +80,8 @@
       </a>
     </div>  
 
+   
+
     
     <div class="site-section cta-big-image" id="about-section">
       <div class="container">
@@ -65,7 +90,7 @@
             <h2 class="section-title mb-3">Profil Desa</h2>
           </div>
         </div>
-        <div class="row">
+        <div class="row mb-5">
           <div class="col-lg-6 mb-5" data-aos="fade-up" data-aos-delay="">
             <figure class="circle-bg">
             <!-- <img src="/images/hero_1.jpg" alt="Image" class="img-fluid"> -->
@@ -77,9 +102,86 @@
           <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="100">
             <div class="mb-4">
               <!-- <h3 class="h3 mb-4 text-black">For the next great business</h3> -->
-              <p class="text-justify">Desa Kurrusumanga adalah desa yang berada di kecamatan Belopa, Kabupaten Luwu, Sulawesi Selatan. Desa ini terbagi menjadi 3 dusun yaitu dusun Padang-Padang, Kombong, dan Kurrusumanga.</p>    
+              <p class="text-justify">Desa Kurrusumanga terletak di wilayah kecamatan Belopa, Kabupaten Luwu, Sulawesi Selatan. Desa dengan luas 3,4287 km<sup>2</sup> ini terdiri atas 3 dusun yaitu :</p>    
             </div>
 
+            <div class="mb-4">
+              <ul class="success">
+                <li>Dusun Padang-Padang</li>
+                <li>Dusun Kombong</li>
+                <li>Dusun Kurrusumanga</li>
+              </ul>
+            </div>
+
+            <!-- <div class="mb-4">
+              <p class="text-justify">Data penduduk desa kurrusumanga dapat dilihat pada tabel dibawah ini.</p>    
+            </div> -->
+
+          
+          </div>
+        </div>
+        
+        <div class="row">
+          <div class="col-lg-12 mb-1" data-aos="fade-up" data-aos-delay="">
+            <p class="font-weight-bold text-center">DATA PENDUDUK DESA KURRUSUMANGA TAHUN 2020</p>
+          </div>
+        </div>
+        <div class="row d-flex justify-content-center">
+          <div class="col-lg-12 mb-5 table-responsive " data-aos="fade-up" data-aos-delay="">
+              <table class="table table-bordered">
+                <thead class="thead-dark text-center">
+                  <tr>
+                    <th rowspan="2" style="vertical-align : middle;text-align:center;">NAMA DUSUN</th>
+                    <th colspan="3" scope="col">JUMLAH KELOMPOK</th>
+                    <th colspan="2" scope="col">JUMLAH</th>
+                    <th colspan="2" scope="col">JUMLAH JIWA</th>
+                  </tr>
+                  <tr>
+                    <th scope="col">PKK RW</th>
+                    <th scope="col">PKK RT</th>
+                    <th scope="col">DASA WISMA</th>
+                    <th scope="col">KRT</th>
+                    <th scope="col">KK</th>
+                    <th scope="col">L</th>
+                    <th scope="col">P</th>
+                  </tr>
+                </thead>
+                  
+                <tbody class="text-center">
+                  <tr>
+                    <th scope="row">Padang-Padang</th>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>5</td>
+                    <td>140</td>
+                    <td>185</td>
+                    <td>371</td>
+                    <td>385</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Kombong</th>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>3</td>
+                    <td>97</td>
+                    <td>89</td>
+                    <td>181</td>
+                    <td>195</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Kurrusumanga</th>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>3</td>
+                    <td>84</td>
+                    <td>101</td>
+                    <td>182</td>
+                    <td>242</td>
+                  </tr>
+                </tbody>
+              </table>
+
+             
           </div>
         </div>
       </div>  
@@ -104,11 +206,11 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="#"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
+                <img src="/images/kades.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
                 <h3>Megawati</h3>
-                <span class="position">Kepala Desa</span>
+                <span class="position text-dark">Kepala Desa</span>
               </div>
             </div>
           </div>
@@ -122,11 +224,11 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="#"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="/images/person_7.jpg" alt="Image" class="img-fluid">
+                <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
-                <h3>Ben Thompson</h3>
-                <span class="position">Sekertaris Desa</span>
+                <h3>Ulfa Eka Saputri, S.Si</h3>
+                <span class="position text-dark">Sekertaris Desa</span>
               </div>
             </div>
           </div>
@@ -140,11 +242,11 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="#"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="/images/person_8.jpg" alt="Image" class="img-fluid">
+                <img src="/images/rahmi.jpeg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
-                <h3>Kyla Stewart</h3>
-                <span class="position">Kaur Umum dan TU</span>
+                <h3>Sri Rahmi Mansyur</h3>
+                <span class="position text-dark">Kasek Pemerintahan</span>
               </div>
             </div>
           </div>
@@ -158,11 +260,11 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="#"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="/images/person_5.jpg" alt="Image" class="img-fluid">
+                <img src="/images/ikbal.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
-                <h3>Kaiara Spencer</h3>
-                <span class="position">Kaur Keuangan</span>
+                <h3>Ikbal</h3>
+                <span class="position text-dark">Kasek Kesejahteraan & Pelayanan</span>
               </div>
             </div>
           </div>
@@ -176,11 +278,11 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="#"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="/images/person_1.jpg" alt="Image" class="img-fluid">
+                <img src="/images/lisnawati.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
-                <h3>Kaiara Spencer</h3>
-                <span class="position">Kaur Perencanaan</span>
+                <h3>Lisnawati</h3>
+                <span class="position text-dark">Kaur Umum & Perencanaan</span>
               </div>
             </div>
           </div>
@@ -194,11 +296,11 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="#"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="/images/person_2.jpg" alt="Image" class="img-fluid">
+                <img src="/images/darmawati.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
-                <h3>Dave Simpson</h3>
-                <span class="position">Kasi Pemerintahan</span>
+                <h3>Darmawati</h3>
+                <span class="position text-dark">Kaur Keuangan</span>
               </div>
             </div>
           </div>
@@ -212,11 +314,11 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="#"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="/images/person_3.jpg" alt="Image" class="img-fluid">
+                <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
-                <h3>Ben Thompson</h3>
-                <span class="position">Kasi Kesejahteraan</span>
+                <h3>Suaib, SP</h3>
+                <span class="position text-dark">Kadus Padang-Padang</span>
               </div>
             </div>
           </div>
@@ -230,16 +332,36 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="#"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="/images/person_4.jpg" alt="Image" class="img-fluid">
+                <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
-                <h3>Chris Stewart</h3>
-                <span class="position">Kasi Pelayanan</span>
+                <h3>Masjud</h3>
+                <span class="position text-dark">Kadus Kombong</span>
               </div>
             </div>
           </div>
+
+          <div class="col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="team-member">
+              <figure>
+                <ul class="social">
+                  <li><a href="#"><span class="icon-facebook"></span></a></li>
+                  <li><a href="#"><span class="icon-twitter"></span></a></li>
+                  <li><a href="#"><span class="icon-linkedin"></span></a></li>
+                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                </ul>
+                <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
+              </figure>
+              <div class="p-3">
+                <h3>Firman Rahman</h3>
+                <span class="position text-dark">Kadus Kurrusumanga</span>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
+
     </section>
 
 
@@ -251,7 +373,7 @@
           </div>
         </div>
         <div class="row mt-4 mb-5">
-          <div class="col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="">
+          <div class="col-lg-5 mb-5" data-aos="fade-up" data-aos-delay="">
             <figure class="circle-bg">
             <img src="/images/sawah.jpg" alt="Image" class="img-fluid rounded">
             </figure>
@@ -265,7 +387,7 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-4 mb-5" data-aos="fade-up" data-aos-delay="">
+          <div class="col-lg-5 mb-5" data-aos="fade-up" data-aos-delay="">
             <figure class="circle-bg">
             <img src="/images/agrowisata.jpg" alt="Image" class="img-fluid rounded">
             </figure>
@@ -274,6 +396,7 @@
             <div class="mb-4">
               <h5 class="h3 mb-4 text-black">2. Sektor Pariwisata</h5>
               <p class="text-justify">Agrowisata yang terletak di dusun Padang-Padang merupakan hasil inisiatif pemerintah desa Kurrusumanga dengan dukungan warganya yang kemudian memanfaatkan luasnya areal persawahan menjadi tempat wisata. Letaknya yang strategis yaitu dekat dari ibukota Kabupaten Luwu membuat lokasi wisata ini bisa menjadi salah satu opsi tempat wisata untuk masyarakat Kabupaten Luwu secara umum terutama yang berdomisili di daerah Kota Belopa dan sekitarnya.</p>
+              <p class="text-justify">Anda bisa mendapatkan informasi lokasi wisata ini <a href="https://goo.gl/maps/khwCvmVcVkZoUpcT7" target="_blank">disini</a></p>
             </div>
           </div>
         </div>
@@ -419,7 +542,7 @@
           <div class="col-md-4 text-center">
             <p class="mb-0">
               <span class="icon-mail_outline d-block h4 text-primary"></span>
-              <a href="mailto:kurrusumanga@desa.id">kurrusumanga@desa.id</a>
+              <a href="mailto:kurrusumanga@desa.id">desakurrusumanga@gmail.com</a>
             </p>
           </div>
         </div>
@@ -488,6 +611,8 @@
     @stack('prepend-script')
     @include('includes.script')
     @stack('addon-script')
+
+
     
   </body>
 </html>
