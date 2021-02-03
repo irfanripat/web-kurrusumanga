@@ -846,10 +846,14 @@ body:after {
   visibility: visible; }
 
 .slide-one-item .owl-dots {
-  display: none;
+  display: none !important;
   /* position: absolute;
   z-index: -1;
   text-align: center;  */
+}
+
+.owl-dots {
+  display: none !important;
 }
   .slide-one-item .owl-dots .owl-dot {
     display: none;
