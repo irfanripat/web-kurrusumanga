@@ -854,13 +854,17 @@ body:after {
 
 .owl-dots {
   display: none !important;
+  visibility: hidden !important;
 }
   .slide-one-item .owl-dots .owl-dot {
-    display: none !important;}
+    display: none !important;
+    visibility: hidden !important;}
     .slide-one-item .owl-dots .owl-dot span {
-      display: none !important;}
+      display: none !important;
+      visibility: hidden !important;}
     .slide-one-item .owl-dots .owl-dot.active span {
-      display: none !important;;}     
+      display: none !important;
+      visibility: hidden !important;}     
 
 .block-12 {
   position: relative; }
