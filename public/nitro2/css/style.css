@@ -846,21 +846,23 @@ body:after {
   visibility: visible; }
 
 .slide-one-item .owl-dots {
-  position: absolute;
-  z-index: -1;
   display: none;
-  text-align: center; }
+  /* position: absolute;
+  z-index: -1;
+  text-align: center;  */
+}
   .slide-one-item .owl-dots .owl-dot {
-    display: inline-block;
+    display: none;
     margin: 4px; }
     .slide-one-item .owl-dots .owl-dot span {
-      display: inline-block;
+      display: none;
       width: 10px;
       height: 10px;
       border-radius: 50%;
       background: #dee2e6; }
     .slide-one-item .owl-dots .owl-dot.active span {
-      background: #007bff; }
+      display: none;
+      background: #007bff; }     
 
 .block-12 {
   position: relative; }
