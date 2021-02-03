@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="{{ url('nitro2/css/style.css') }}"> -->
 
 
-<!-- <link rel="stylesheet" href="{{ secure_asset('nitro2/css/style.css') }}"> -->
+<link rel="stylesheet" href="{{ secure_asset('nitro2/css/style.css') }}">
 <link rel="stylesheet" href="{{ secure_asset('nitro2/fonts/icomoon/style.css') }}">
 <link rel="stylesheet" href="{{ secure_asset('nitro2/css/bootstrap.min.css') }}">
 <link rel="stylesheet" href="{{ secure_asset('nitro2/css/jquery-ui.css') }}">

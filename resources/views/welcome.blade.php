@@ -36,9 +36,9 @@
 
   
      
-    <div class="site-blocks-cover overlay" data-aos="fade" id="home-section">
+    <div class="site-blocks-cover overlay" style="background-image: url(/images/bg2.jpg);" data-aos="fade" id="home-section">
         
-        <div class="slide-one-item home-slider owl-carousel" data-ride="carousel">
+        <!-- <div class="slide-one-item home-slider owl-carousel" data-ride="carousel">
           <div>
             <div class="testimonial" >
               <!-- <img class="d-block w-100" src="/images/bg.jpg" alt="First slide"> -->
@@ -59,7 +59,7 @@
               <div class="site-blocks-cover overlay" style="background-image: url(/images/agrowisata.jpg);"></div>
             </div>
           </div>
-        </div>
+        </div> -->
 
       <div class="container container-cover">
         <div class="row align-items-center justify-content-center">
