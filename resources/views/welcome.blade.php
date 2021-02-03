@@ -41,21 +41,18 @@
         <!-- <div class="slide-one-item home-slider owl-carousel" data-ride="carousel">
           <div>
             <div class="testimonial" >
-              <!-- <img class="d-block w-100" src="/images/bg.jpg" alt="First slide"> -->
               <div class="site-blocks-cover overlay" style="background-image: url(/images/bg2.jpg);"></div>
             </div>
           </div>
         
           <div>  
             <div class="testimonial">
-              <!-- <img class="d-block w-100" src="/images/bg2.jpg" alt="Second slide"> -->
               <div class="site-blocks-cover overlay" style="background-image: url(/images/bg.jpg);"></div>
             </div>
           </div>
 
           <div>  
             <div class="testimonial">
-              <!-- <img class="d-block w-100" src="/images/hero_1.jpg" alt="Third slide"> -->
               <div class="site-blocks-cover overlay" style="background-image: url(/images/agrowisata.jpg);"></div>
             </div>
           </div>
