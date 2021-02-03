@@ -201,10 +201,7 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="#"><span class="icon-facebook"></span></a></li>
-                  <li><a href="#"><span class="icon-twitter"></span></a></li>
-                  <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="https://web.facebook.com/megawati.i.hajar" target="_blank"><span class="icon-facebook"></span></a></li>
                 </ul>
                 <img src="/images/kades.jpg" alt="Image" class="img-fluid">
               </figure>
@@ -219,10 +216,7 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="#"><span class="icon-facebook"></span></a></li>
-                  <li><a href="#"><span class="icon-twitter"></span></a></li>
-                  <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="https://web.facebook.com/ulfaeka90"><span class="icon-facebook"></span></a></li>
                 </ul>
                 <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
               </figure>
@@ -255,10 +249,7 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="#"><span class="icon-facebook"></span></a></li>
-                  <li><a href="#"><span class="icon-twitter"></span></a></li>
-                  <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="https://web.facebook.com/ikbalbifa.mualif"><span class="icon-facebook"></span></a></li>
                 </ul>
                 <img src="/images/ikbal.jpg" alt="Image" class="img-fluid">
               </figure>
@@ -273,10 +264,7 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="#"><span class="icon-facebook"></span></a></li>
-                  <li><a href="#"><span class="icon-twitter"></span></a></li>
-                  <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="https://web.facebook.com/lisnawati.lukman.56"><span class="icon-facebook"></span></a></li>
                 </ul>
                 <img src="/images/lisnawati.jpg" alt="Image" class="img-fluid">
               </figure>
@@ -291,10 +279,7 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="#"><span class="icon-facebook"></span></a></li>
-                  <li><a href="#"><span class="icon-twitter"></span></a></li>
-                  <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="https://web.facebook.com/darma.kadir.7?comment_id=Y29tbWVudDo4MjQ1MDAxOTEzNjYxOTJfODI0NTAyNTg4MDMyNjE5"><span class="icon-facebook"></span></a></li>
                 </ul>
                 <img src="/images/darmawati.jpg" alt="Image" class="img-fluid">
               </figure>
@@ -309,10 +294,7 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="#"><span class="icon-facebook"></span></a></li>
-                  <li><a href="#"><span class="icon-twitter"></span></a></li>
-                  <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="https://web.facebook.com/suaib.yusuf.77"><span class="icon-facebook"></span></a></li>
                 </ul>
                 <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
               </figure>
@@ -327,10 +309,7 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="#"><span class="icon-facebook"></span></a></li>
-                  <li><a href="#"><span class="icon-twitter"></span></a></li>
-                  <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="https://web.facebook.com/masjud.ajju.7"><span class="icon-facebook"></span></a></li>
                 </ul>
                 <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
               </figure>
@@ -346,9 +325,9 @@
               <figure>
                 <ul class="social">
                   <li><a href="#"><span class="icon-facebook"></span></a></li>
-                  <li><a href="#"><span class="icon-twitter"></span></a></li>
+                  <!-- <li><a href="#"><span class="icon-twitter"></span></a></li>
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="#"><span class="icon-instagram"></span></a></li> -->
                 </ul>
                 <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
               </figure>
@@ -463,23 +442,28 @@
         <div class="row mb-2">
           <div class="col-12 text-center" data-aos="fade">
             <p class="lead text-dark font-weight-bold" data-aos="fade-up" data-aos-delay="100">Pendapatan Desa Tahun 2020</p>
-            <!-- <p class="lead text-dark font-weight-bold" data-aos="fade-up" data-aos-delay="100">Pendapatan Desa Tahun 2020</p> -->
+            <p class="text-dark text-center font-weight-bold" data-aos="fade-up" data-aos-delay="100">Total : Rp. 1,054,540,601,-</p>
           </div>
         </div>
         
-        Alokasi Dana Desa
+        Dana Desa
         <div class="progress mb-4" style="height: 35px;">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp.1.000.000.000</span></div>
+          <div class="progress-bar bg-success" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 742.191.000,-</span></div>
         </div>
       
-        Bantuan Keuangan Provinsi
+        Bagi Hasil Pajak Retribusi
         <div class="progress mb-4" style="height: 35px;"> 
-          <div class="progress-bar bg-danger" role="progressbar" style="width: 8%;" aria-valuenow="8" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 100.000.000</span></div>
+          <div class="progress-bar bg-danger" role="progressbar" style="width: 1.2%;" aria-valuenow="1.2" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 13.312.497,-</span></div>
         </div>
 
-        Bagi Hail Pajak
+        Alokasi Dana Desa
+        <div class="progress mb-4" style="height: 35px;">
+          <div class="progress-bar bg-primary" role="progressbar" style="width: 28%;" aria-valuenow="28" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 298.614.000,-</span></div>
+        </div>  
+
+        Pendapatan Lain-Lain
         <div class="progress mb-5" style="height: 35px;">
-          <div class="progress-bar bg-primary" role="progressbar" style="width: 2%;" aria-valuenow="2" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 10.000.000</span></div>
+          <div class="progress-bar bg-warning" role="progressbar" style="width: 0.04%;" aria-valuenow="0.04" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 423.104,-</span></div>
         </div>  
 
 
@@ -489,29 +473,36 @@
         <div class="row mb-2" style="margin-top: 100px;">
           <div class="col-12 text-center" data-aos="fade">
             <p class="lead text-dark font-weight-bold" data-aos="fade-up" data-aos-delay="100">Belanja Desa Tahun 2020</p>
-            <!-- <p class="lead text-dark font-weight-bold" data-aos="fade-up" data-aos-delay="100">Pendapatan Desa Tahun 2020</p> -->
+            <p class="text-dark text-center font-weight-bold" data-aos="fade-up" data-aos-delay="100">Total : Rp. 1,054,595,767,-</p>
           </div>
         </div>
+
+        <!-- 1,054,595,767 -->
         
         Bidang Penyelenggaraan Pemerintahan Desa
         <div class="progress mb-4" style="height: 35px;">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 30%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp.343.408.253</span></div>
+          <div class="progress-bar bg-success" role="progressbar" style="width: 28%;" aria-valuenow="28" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 301.144.767,-</span></div>
         </div>
       
         Bidang Pelaksanaan Pembangunan Desa
         <div class="progress mb-4" style="height: 35px;"> 
-          <div class="progress-bar bg-danger" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp.504.456.500</span></div>
+          <div class="progress-bar bg-danger" role="progressbar" style="width: 41%;" aria-valuenow="41" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 435.751.000,-</span></div>
         </div>
 
         Bidang Pembinaan Kemasyarakatan
         <div class="progress mb-4" style="height: 35px;">
-          <div class="progress-bar bg-primary" role="progressbar" style="width: 9%;" aria-valuenow="9" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 96.234.000</span></div>
+          <div class="progress-bar bg-primary" role="progressbar" style="width: 1.3%;" aria-valuenow="1.3" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 14.600.000,-</span></div>
         </div>  
 
         Bidang Pemberdayaan Masyarakat
         <div class="progress mb-4" style="height: 35px;">
-          <div class="progress-bar bg-success" role="progressbar" style="width: 1%;" aria-valuenow="1" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 5.050.000</span></div>
-        </div> 
+          <div class="progress-bar bg-secondary" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 0,-</span></div>
+        </div>
+
+        Bidang Penanggulangan Bencana, Darurat dan Mendesak Desa
+        <div class="progress mb-4" style="height: 35px;">
+          <div class="progress-bar bg-warning" role="progressbar" style="width: 28%;" aria-valuenow="28" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 303.100.000,-</span></div>
+        </div>  
         </div>
     </section>
 
@@ -535,8 +526,8 @@
           </div>
           <div class="col-md-4 text-center">
             <p class="mb-4">
-              <span class="icon-phone d-block h4 text-primary"></span>
-              <a href="#">+6285 256 145 698</a>
+              <span class="icon-facebook d-block h4 text-primary"></span>
+              <a href="https://web.facebook.com/pemdes.kurrusumanga" target="_blank">@PemDes Kurrusumanga</a>
             </p>
           </div>
           <div class="col-md-4 text-center">

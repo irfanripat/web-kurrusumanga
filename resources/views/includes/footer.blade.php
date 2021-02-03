@@ -20,7 +20,7 @@
               <div class="col-md-4">
                 <h2 class="footer-heading mb-4 font-weight-bold">Hubungi Kami</h2>
                 <ul class="list-unstyled">
-                  <li>Phone : 085256145698</li>
+                  <li>Facebook : <a href="https://web.facebook.com/pemdes.kurrusumanga" target="_blank">@PemDes Kurrusumanga</a></li>
                   <li>Email : <a href="mailto:kurrusumanga@desa.id">desakurrusumanga@gmail.com</a></li>
                   <li>Alamat : Desa Kurrusumanga, Belopa</li>
                 </ul>
