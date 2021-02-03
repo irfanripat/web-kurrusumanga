@@ -856,17 +856,11 @@ body:after {
   display: none !important;
 }
   .slide-one-item .owl-dots .owl-dot {
-    display: none;
-    margin: 4px; }
+    display: none !important;}
     .slide-one-item .owl-dots .owl-dot span {
-      display: none;
-      width: 10px;
-      height: 10px;
-      border-radius: 50%;
-      background: #dee2e6; }
+      display: none !important;}
     .slide-one-item .owl-dots .owl-dot.active span {
-      display: none;
-      background: #007bff; }     
+      display: none !important;;}     
 
 .block-12 {
   position: relative; }
