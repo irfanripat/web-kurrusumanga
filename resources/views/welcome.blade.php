@@ -44,11 +44,11 @@
           </div>
         
           <div>
-            <div class="site-blocks-cover overlay" style="background-image: url(/images/bg2.jpg);"></div>
+            <div class="site-blocks-cover overlay" style="background-image: url(/images/bg.jpg);"></div>
           </div>
 
           <div>
-            <div class="site-blocks-cover overlay" style="background-image: url(/images/bg2.jpg);"></div>
+            <div class="site-blocks-cover overlay" style="background-image: url(/images/agrowisata.jpg);"></div>
           </div>
         </div>
 
