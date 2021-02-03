@@ -847,6 +847,7 @@ body:after {
 
 .slide-one-item .owl-dots {
   display: none !important;
+  visibility: hidden !important;
   /* position: absolute;
   z-index: -1;
   text-align: center;  */

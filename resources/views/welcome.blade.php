@@ -386,16 +386,16 @@
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="">
             <div class="h-entry">
-              <a href="single.html">
-                <img src="/images/img_1.jpg" alt="Image" class="img-fluid">
+              <a href="/images/apbdes.jpeg" target="_blank">
+                <img src="/images/apbdes.jpeg" alt="Image" class="img-fluid">
               </a>
-              <h2 class="font-size-regular"><a href="#">Where Do You Learn HTML & CSS in 2019?</a></h2>
-              <div class="meta mb-4">Ham Brook <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
-              <p><a href="#">Continue Reading...</a></p>
+              <h2 class="font-size-regular"><a href="/images/apbdes.jpeg" target="_blank">Realisasi APBDes Desa Kurrusumanga Tahun 2020</a></h2>
+              <div class="meta mb-4">Admin <span class="mx-2">&bullet;</span> Jan 18, 2021</div>
+              <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
+              <p><a href="#">Continue Reading...</a></p> -->
             </div> 
           </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="100">
+          <!-- <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="h-entry">
               <a href="single.html">
                 <img src="/images/img_4.jpg" alt="Image" class="img-fluid">
@@ -405,19 +405,7 @@
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
               <p><a href="#">Continue Reading...</a></p>
             </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="h-entry">
-              <a href="single.html">
-                <img src="/images/img_3.jpg" alt="Image" class="img-fluid">
-              </a>
-              <h2 class="font-size-regular"><a href="#">Where Do You Learn HTML & CSS in 2019?</a></h2>
-              <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
-              <p><a href="#">Continue Reading...</a></p>
-            </div> 
-          </div>
-          
+          </div> -->
         </div>
       </div>
     </section>
@@ -532,19 +520,35 @@
           <div class="col-md-12 mb-5">
 
             
-
-            <form action="#" class="p-5 bg-white">
+            @if (count($errors) > 0)
+              <div class="alert alert-danger">
+                <button type="button" class="close" data-dismiss="alert">×</button>
+                  <ul>
+                    @foreach ($errors->all() as $error)
+                      <li>{{ $error }}</li>
+                    @endforeach
+                  </ul>
+              </div>
+            @endif
+            @if ($message = Session::get('success'))
+            <div class="alert alert-success alert-block">
+              <button type="button" class="close" data-dismiss="alert">×</button>
+                    <strong>{{ $message }}</strong>
+            </div>
+            @endif
+            
+            <form action="" class="p-5 bg-white">
               
               <h2 class="h4 text-black mb-5">Form Keluhan</h2> 
 
               <div class="row form-group">
                 <div class="col-md-6 mb-3 mb-md-0">
-                  <label class="text-black" for="fname">Nama Depan</label>
-                  <input type="text" id="fname" class="form-control">
+                  <label class="text-black" for="name">Nama Depan</label>
+                  <input type="text" name="name" id="fname" class="form-control">
                 </div>
                 <div class="col-md-6">
                   <label class="text-black" for="lname">Nama Belakang</label>
-                  <input type="text" id="lname" class="form-control">
+                  <input type="text" name="lname" id="lname" class="form-control">
                 </div>
               </div>
 
@@ -552,7 +556,7 @@
                 
                 <div class="col-md-12">
                   <label class="text-black" for="email">Email</label> 
-                  <input type="email" id="email" class="form-control">
+                  <input type="email" name="email" id="email" class="form-control">
                 </div>
               </div>
 
@@ -560,7 +564,7 @@
                 
                 <div class="col-md-12">
                   <label class="text-black" for="subject">Subjek</label> 
-                  <input type="subject" id="subject" class="form-control">
+                  <input type="subject" name="subject" id="subject" class="form-control">
                 </div>
               </div>
 
@@ -573,7 +577,7 @@
 
               <div class="row form-group">
                 <div class="col-md-12">
-                  <input type="submit" value="Kirim Pesan" class="btn btn-primary btn-md text-white">
+                  <input type="submit" name="send" value="Kirim Pesan" class="btn btn-primary btn-md text-white">
                 </div>
               </div>
 
