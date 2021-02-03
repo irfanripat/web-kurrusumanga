@@ -1,4 +1,4 @@
-<!-- <script src="{{ url('nitro2/js/jquery-3.3.1.min.js') }}"></script>
+<script src="{{ url('nitro2/js/jquery-3.3.1.min.js') }}"></script>
 <script src="{{ url('nitro2/js/jquery-ui.js') }}"></script>
 <script src="{{ url('nitro2/js/popper.min.js') }}"></script>
 <script src="{{ url('nitro2/js/bootstrap.min.js') }}"></script>
@@ -9,7 +9,7 @@
 <script src="{{ url('nitro2/js/jquery.fancybox.min.js') }}"></script>
 <script src="{{ url('nitro2/js/jquery.sticky.js') }}"></script>
 <script src="{{ url('nitro2/js/isotope.pkgd.min.js') }}"></script>
-<script src="{{ url('nitro2/js/main.js') }}"></script> -->
+<script src="{{ url('nitro2/js/main.js') }}"></script>
 
 
 <script src="{{ secure_asset('nitro2/js/jquery-3.3.1.min.js') }}"></script>
