@@ -192,7 +192,7 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="https://web.facebook.com/megawati.i.hajar" target="_blank"><span class="icon-facebook"></span></a></li>
+                  <li><a href="https://web.facebook.com/profile.php?id=100043012689565" target="_blank"><span class="icon-facebook"></span></a></li>
                 </ul>
                 <img src="/images/kades.jpg" alt="Image" class="img-fluid">
               </figure>
@@ -287,7 +287,7 @@
                 <ul class="social">
                   <li><a href="https://web.facebook.com/suaib.yusuf.77"><span class="icon-facebook"></span></a></li>
                 </ul>
-                <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
+                <img src="/images/suaib.jpeg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
                 <h3>Suaib, SP</h3>
@@ -302,7 +302,7 @@
                 <ul class="social">
                   <li><a href="https://web.facebook.com/masjud.ajju.7"><span class="icon-facebook"></span></a></li>
                 </ul>
-                <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
+                <img src="/images/masjud.jpeg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
                 <h3>Masjud</h3>
@@ -320,7 +320,7 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="#"><span class="icon-instagram"></span></a></li> -->
                 </ul>
-                <img src="/images/anonym.jpg" alt="Image" class="img-fluid">
+                <img src="/images/kurrusumanga.jpeg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
                 <h3>Firman Rahman</h3>
@@ -421,7 +421,7 @@
         <div class="row mb-2">
           <div class="col-12 text-center" data-aos="fade">
             <p class="lead text-dark font-weight-bold" data-aos="fade-up" data-aos-delay="100">Pendapatan Desa Tahun 2020</p>
-            <p class="text-dark text-center font-weight-bold" data-aos="fade-up" data-aos-delay="100">Total : Rp. 1,054,540,601,-</p>
+            <p class="text-dark text-center font-weight-bold" data-aos="fade-up" data-aos-delay="100">Total : Rp. 1,054,575,460,-</p>
           </div>
         </div>
         
@@ -442,7 +442,7 @@
 
         Pendapatan Lain-Lain
         <div class="progress mb-5" style="height: 35px;">
-          <div class="progress-bar bg-warning" role="progressbar" style="width: 0.04%;" aria-valuenow="0.04" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 423.104,-</span></div>
+          <div class="progress-bar bg-warning" role="progressbar" style="width: 0.04%;" aria-valuenow="0.04" aria-valuemin="0" aria-valuemax="100"><span class="text-dark" style="position: absolute; left:0; right:0;">Rp. 457.963,-</span></div>
         </div>  
 
 
